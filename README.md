@@ -2,6 +2,7 @@
 - 👀 I’m interested in Software Development and other things involving brainstorming!!
 - 🌱 I’m currently learning System design
 - :woman_technologist: I am making my way into web3.0 by learning blockchain and crypto
+- :teacher: In my free time I try to give back to the society by teaching rural school kids
 - 💞️ I’m looking to collaborate on interesting technical problems
 
 <!---
